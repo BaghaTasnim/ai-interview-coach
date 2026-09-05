@@ -1,3 +1,4 @@
 .env
 venv/
 history.json
+DOCUMENTATION.md
